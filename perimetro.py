@@ -30,4 +30,4 @@ def perimetro(): #def definisce una funzione
 		print("Il perimetro del Triangolo Scaleno, avente lato a", latoa, " lato b", latob, " e lato c",latoc, "è:", latoa+latob+latoc)
 	else:            #se non viene inserito nessun numero tra le scelte apparirà questo messaggio
 		print("Inserire una scelta valida")
-perimetro()               #richiamo funzione per poterla utilizzare
+perimetro()               #richiamo funzione
